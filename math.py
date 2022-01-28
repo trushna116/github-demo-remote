@@ -10,5 +10,8 @@ def multiply(x,y):
 # divide implementation
 def divide(x,y):
     pass 
+    
+def fun():
+    pass
 
     
