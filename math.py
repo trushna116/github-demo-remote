@@ -9,7 +9,7 @@ def multiply(x,y):
     return x*y
 # divide implementation
 def divide(x,y):
-    pass 
+    return x/y 
     
 def fun():
     pass
